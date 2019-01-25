@@ -41,9 +41,9 @@ consume("Mary", "Poppins", greeting); // Hello Mary Poppins, nice to meet you!
 
 // Explanation:
 /*
-A closure is an iner function that has access to the outer functions variables.
-The reason why the works is because of how the lexical scope in JavaScript operates
-You can pull data from the parent as long as you are alwyas a child
+A closure is an iner function that has access to an outer functions scope.
+
+you can pull data from the parent as long as you are always a child
 */
 
 
