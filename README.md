@@ -38,7 +38,7 @@ Edit this document to include your answers after each question. Make sure to lea
     * A closure is an inner function that has access to an outer functions scope. Which allows you to abstract needed data from the outer function scope into the inner function.
 
 4. Describe the four rules of the 'this' keyword.
-    * Window binding is when this isn't bound to anything and defaults to binding to the window object.
+    * Window binding is when `this` isn't bound to anything and defaults to binding to the window object.
     * New binding is when `this` is on a instance object
     * explicit binding is when `this` is bound using the .call(), .apply(), or .bind() method
     * implicit binding is when `this` is bound to the method in context of the object it was invoked on.
