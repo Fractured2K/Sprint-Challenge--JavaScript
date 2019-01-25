@@ -35,7 +35,7 @@ Edit this document to include your answers after each question. Make sure to lea
     * They're both functions but a method is a property of an object.
 
 3. What is closure?
-    * A closure is an iner function that has access to an outer functions scope. Which allows you to abstract needed data from the outer function scope into the inner function.
+    * A closure is an inner function that has access to an outer functions scope. Which allows you to abstract needed data from the outer function scope into the inner function.
 
 4. Describe the four rules of the 'this' keyword.
     * Window binding is when this isn't bound to anything and defaults to binding to the window object.
