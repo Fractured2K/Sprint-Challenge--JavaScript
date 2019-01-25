@@ -42,8 +42,7 @@ consume("Mary", "Poppins", greeting); // Hello Mary Poppins, nice to meet you!
 // Explanation:
 /*
 A closure is an iner function that has access to an outer functions scope.
-
-you can pull data from the parent as long as you are always a child
+Which allows the inner function to use data the outer function has created even if that function has returned.
 */
 
 
